@@ -1,2 +1,2 @@
-XML1
-====
+XML Übung mit JAXB
+PR Tschernko
